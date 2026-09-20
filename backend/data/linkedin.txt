@@ -1,0 +1,65 @@
+Andreu Ortega Blasi — Product Manager | IoT, SaaS & AI | PMP & PMI-CPMAI
+Lugano, Ticino, Switzerland | aortegablasi@gmail.com
+linkedin.com/in/andreu-ob | github.com/aortegablasi96
+
+SUMMARY
+Product Manager with 4+ years across IoT, SaaS and AI-driven solutions. Came into
+product from engineering (PCB design, automation software, then software development
+and Agile delivery), which keeps product decisions grounded and makes work with
+engineering teams faster. Managed digital solutions in 10+ markets, reaching 50%
+adoption growth. Currently focused on applied AI product development: LLM
+applications, RAG systems and AI agent workflows — AI products that solve real
+business problems rather than impressive demos. Built an AI chatbot answering
+questions about his background: https://career-conversation-chatbot.vercel.app/
+
+EXPERIENCE
+ABB — Global Product Manager, UPS Digital Services (Oct 2024–present, Cadenazzo)
+- Portfolio of 5+ digital/SaaS connectivity and monitoring solutions; coordinates 4
+  cross-functional teams across EMEA, Americas and India.
+- Shapes product strategy from market and usage data, including where AI-driven
+  insights fit the portfolio.
+- Led transformation of a monitoring solution into a predictive fleet management
+  offering: user journey maps, execution, pilots with KPI tracking.
+- Enables 10+ sales and technical teams; aligns roadmap with global stakeholders.
+
+Ponera Group — Product Manager, SaaS solutions (Jun 2023–Oct 2024, Lugano)
+- Led end-to-end development and launch of 4 IoT-enabled SaaS products as Product
+  Owner, serving 100+ connected assets.
+- Owned vision, roadmap and requirements across internal teams and external software
+  providers.
+- Managed 5+ technology and hardware vendors, running RFP/RFQ and commercial
+  negotiations.
+- Ran product governance and CEO/stakeholder alignment; evaluated IoT, AI and
+  operational data models to drive automation.
+
+Randstad Digital (Nov 2022–Jun 2023) — Project Manager at Daikin, Ghent
+- Supported 5 engineers on an air-conditioning improvement project; assisted the
+  Product Owner with backlog and sprint content; servant leader for the team.
+- Built a Matter-over-Thread IoT proof of concept (architecture, integration, test).
+
+Randstad Digital (Mar 2022–Nov 2022) — Project Manager at CNH Industrial, Bruges
+- Agricultural machinery quality assessment projects: requirements, cross-department
+  coordination, risk identification and mitigation.
+- Built solutions in Python and LabVIEW integrating IoT devices, Azure IoT and data
+  analytics.
+
+ToBeIT — Software Engineer (Sep 2020–Jul 2021, Barcelona)
+- Python RPA automation for 3 business processes; databases and data pipelines for
+  internal applications and reporting.
+
+Electronica Digital de Proteccion SA — Electronic Engineer (May 2019–Jul 2020)
+- High-voltage controller PCBs in Altium; control and automation software for
+  electrical substations to IEC 61850.
+
+EDUCATION
+Universitat Politecnica de Catalunya — MEng Information Technology (2020–2022)
+KU Leuven — BE Information Technology (exchange, 2018–2019)
+Universitat Politecnica de Catalunya — BE Information Technology (2014–2019)
+
+SKILLS & CERTIFICATIONS
+Top skills: AI agents, n8n, FireCrawl.
+Certifications: PMP; PMI-CPMAI; AI Engineer Agentic Track (Agents & MCP); AI Coder
+(Claude Code & coding agents); Docker Mastery + Kubernetes; Matter in Home Assistant;
+Digital Product Management.
+Languages: Spanish (native), Catalan (native), English (full professional), Italian
+(professional working).
